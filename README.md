@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drptz easier just call me Tibor.
 - 👀 I’m interested in iBPM relevant parts of DevOps.
-- 🌱 I’m currently learning cloud service provisions with all relevances.
+- 🌱 I’m currently learning cloud service provisions with all related services.
 - 💞️ I’m looking to collaborate on building up a service oriented support.
 - 📫 I am available through email, and Whatsapp. 
 
